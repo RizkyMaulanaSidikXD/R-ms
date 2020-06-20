@@ -33,8 +33,9 @@ def random_numbers():
   os.system('cls' if os.name == 'nt' else 'clear')
   print('''
   🌐 FACEBOOK CRACKER RANDOM NUMBERS 🌐
+  😎 REVOLUTION.ID X RIZKY MAULANA SIDIK 😎
   Isi Nomer Awal Nya Dulu Dong Bro ;)
-  Harus 5 Digit Ya Gak Voleh Kurang Dan Gak Boleh Lebih.
+  Harus 5 Digit Ya Gak Boleh Kurang Dan Gak Boleh Lebih.
   Contoh: 0610202
   ''')
   kode=str(input('  Masukan nomor awal: '))
@@ -57,8 +58,9 @@ def random_email():
   os.system('cls' if os.name == 'nt' else 'clear')
   print('''
   🌐 FACEBOOK CRACKER RANDOM EMAIL 🌐
-  Isi nama penggunanya ya kaka
-  Contoh: putri
+  😎 REVOLUTION.ID X RIZKY MAULANA SIDIK 😎
+  Isi Nama Pengguna Dulu Tolol-_-
+  Contoh: rizkyganteng, rizkygans
   ''')
   nama=input('  Nama pengguna: ')
   domain=input('''
@@ -88,8 +90,10 @@ def random_email():
 
 def pilih():
   print('''
+  ❌ REVOLUTION.ID X RIZKY MAULANA SIDIK ❌
   1. 😎Crack Dari Nomer Random😎
   2. 😎Crack Dari Email Random😎
+  ❌ REVOLUTION.ID X RIZKY MAULANA SIDIK ❌
   ''')
   pil=int(input('  Pilih Yang Mana Bro Hadeh?: '))
   if pil == 1:
