@@ -1,1 +1,1 @@
-# R-ms
+# ASEDE KONTOL AWKWKWK
