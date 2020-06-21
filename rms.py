@@ -94,7 +94,7 @@ def pilih():
   2. 🌹CRACK DARI EMAIL RANDOM🌹
      ❌REVOLUTION ID X ALIMINATOR❌
   ''')
-  pil=int(input('  Pilih mana man?: '))
+  pil=int(input('  Pilih Mana Dulu Sob?: '))
   if pil == 1:
     random_numbers()
   elif pil == 2:
